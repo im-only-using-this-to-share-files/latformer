@@ -1,6 +1,7 @@
-ok so how thi works is you- actually hold on
+ok so how this works is you- actually hold on
 i got a template for this
-"To Play The Game
+
+To Play The Game
 
 1. Press on the green button that says code
 
@@ -16,6 +17,6 @@ i got a template for this
 
 7. Name it whatever you want then press install
 
-8. Click on the project and in the sidebar and press run"
+8. Click on the project and in the sidebar and press run
 
 there we go, thanks CoolBerry5!
